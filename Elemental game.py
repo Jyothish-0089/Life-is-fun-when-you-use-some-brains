@@ -7,6 +7,9 @@ its FIRE , WATER, EARTH, AIR AND SPACE now
 Dmg statistics.. I'm too lazy to explain I'll type it later pls-
 Alright here it is below THAT WAS EXHAUSTING TO TYPE
 
+
+  UPDATE:  YOOO- coming back after more than a year, THIS GAME WAS DUMB LMAO BUT DAYUM I TYPED A LOT
+
 ---Battle element reactions---
 Fire -> Fire 
 Fire -> Water (25% more dmg)
