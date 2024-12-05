@@ -1,4 +1,4 @@
-total = int(input("Total classes: "))
+total = int(input("Total classes till now: "))
 attended = int(input("Classes attended: "))
 if(total>=attended):
     goal = 80
